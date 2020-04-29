@@ -1,5 +1,6 @@
 
 *.zip
+_comand_line_to_generate_the_site.txt
 resources/
 node_modules/
 themes/
