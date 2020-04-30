@@ -2,7 +2,7 @@
 title: "workflow"
 linkTitle: "workflow"
 weight: 1
-description: How the work is done?
+description: How the Agathis Project work is done?
 ---
 <!--
 {{% pageinfo %}}
