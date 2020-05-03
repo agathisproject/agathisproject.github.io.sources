@@ -1,6 +1,6 @@
 ---
-title: "workflow"
-linkTitle: "workflow"
+title: "ficus-elastica"
+linkTitle: "ficus-elastica"
 weight: 1
 description: How the Agathis Project work is done?
 ---

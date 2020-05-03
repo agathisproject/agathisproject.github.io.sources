@@ -1,6 +1,6 @@
 ---
-title: "github pages"
-linkTitle: "github pages"
+title: "agathisproject.github.io.sources"
+linkTitle: "agathisproject.github.io.sources"
 weight: 1
 description: How the Agathis Project website works?
 ---

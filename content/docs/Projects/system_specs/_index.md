@@ -1,6 +1,6 @@
 ---
-title: "system specs"
-linkTitle: "system specs"
+title: "pinus-rigida"
+linkTitle: "pinus-rigida"
 weight: 1
 description: How the Agathis system is built?
 ---
