@@ -1,6 +1,7 @@
 
 *.zip
 _comand_line_to_generate_the_site.txt
+_local_commands.txt
 resources/
 node_modules/
 themes/
